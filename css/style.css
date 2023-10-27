@@ -1,6 +1,7 @@
 .banner {
-  background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg")
-    no-repeat center center;
+/*   background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg")
+    no-repeat center center; */
+  background-color: #7a7a7a;
   background-size: cover;
   padding-top: 20%;
   padding-bottom: 20%;
